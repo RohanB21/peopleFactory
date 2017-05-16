@@ -8,6 +8,7 @@ const renderColor = (hairColor) => {
   return colorDiv
 }
 
+
 const handleSubmit = (ev) => {
   ev.preventDefault()
   const form = ev.target
